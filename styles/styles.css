@@ -1,0 +1,10 @@
+html{
+    background-image: url(../media/doom.gif);
+}
+video{
+    display: block;
+    margin: 10% auto;
+}
+#playback{
+    text-align: center;
+}
